@@ -1,0 +1,62 @@
+[
+    {
+        "user_id": 1,
+        "company": "Romaguera-Crona",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    },
+    {
+        "user_id": 2,
+        "company": "Deckow-Crist",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    },
+    {
+        "user_id": 3,
+        "company": "Romaguera-Jacobson",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    },
+    {
+        "user_id": 4,
+        "company": "Robel-Corkery",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    },
+    {
+        "user_id": 5,
+        "company": "Keebler LLC",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    },
+    {
+        "user_id": 6,
+        "company": "Considine-Lockman",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    },
+    {
+        "user_id": 7,
+        "company": "Johns Group",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    },
+    {
+        "user_id": 8,
+        "company": "Abernathy Group",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    },
+    {
+        "user_id": 9,
+        "company": "Yost and Sons",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    },
+    {
+        "user_id": 10,
+        "company": "Hoeger LLC",
+        "status": "ACTIVE",
+        "timestamp": "2026-04-30 00:16:18"
+    }
+]
